@@ -1,0 +1,22 @@
+<?xml version="1.8" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.pog.studiochew"
+    versionCode = "18"
+    version     = "1.8.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Pog!</name>
+
+  <description>
+    Pog!(tas) is a multi-platform game made with Scratch. Pick your difficulty level, then get into the game, which consists of: Hitting targets Avoiding bombs Collecting powerups and Getting a highscore.
+  </description>
+
+  <author href="https://studiochew.github.io/" email="isaiahburks5@gmail.com">
+      Studio Chew, Donsins-Productions
+  </author>
+  
+  <icon src="icon.png" />
+
+</widget>
